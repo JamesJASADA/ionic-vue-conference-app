@@ -26,9 +26,25 @@
         <h3 class="ion-padding-top ion-padding-start">About</h3>
 
         <p class="ion-padding-start ion-padding-end">
-          The Ionic Conference is a one-day conference on
-          {{ dateFormat(conferenceDate, "MMM dd, yyyy") }}
-          featuring talks from the Ionic team. It is focused on Ionic applications being built with Ionic Framework. This includes migrating apps to the latest version of the framework, Angular concepts, Webpack, Sass, and many other technologies used in Ionic 7. Tickets are completely sold out, and we’re expecting more than 1000 developers – making this the largest Ionic conference ever!
+            <span style="font-size: 1.2em; font-weight: bold;">
+            Largest Multidisciplinary Medical and Dental Sleep Conference
+          </span>
+            <br>
+            Scheduled for {{ dateFormat(conferenceDate, "MMM dd, yyyy") }}
+          <br>
+          Houston, TX – We are excited to announce that the 2025 Annual Sleep & Wellness Conference will be co-hosted by the American Sleep and Breathing Academy ”ASBA” and the Southern Sleep Society.
+<ul>
+  <li>ESTIMATED 700 ATTENDEES EXPECTED</li>
+  <li>EQUAL NUMBER OF DENTAL AND MEDICAL PARTICIPANTS</li>
+  <li>LARGEST PHYSICIAN ATTENDANCE AT DENTAL SLEEP MEETING</li>
+  <li>EXPANDED EDUCATIONAL PROGRAM WITH MORE OPTIONS</li>
+  <li>UP TO 24 CE CREDITS WILL BE AVAILABLE</li>
+</ul>
+<div class="sponsors">
+  <span>Sponsored by </span>
+  <img src="../../public/assets/img/Sponsor/avadel375X86.png" alt="Avadel Sponsor" /> and 
+  <img src="../../public/assets/img/Sponsor/JazzPharma375X86.png" alt="Jazz Pharma Sponsor" />
+</div>
         </p>
 
         <h3 class="ion-padding-top ion-padding-start">Details</h3>
@@ -36,7 +52,7 @@
         <ion-list lines="none">
           <ion-item>
             <ion-select label="Location" v-model="location" :interfaceOptions="selectOptions">
-              <ion-select-option value="madison">Madison, WI</ion-select-option>
+              <ion-select-option value="madison">Houston, TX</ion-select-option>
               <ion-select-option value="austin">Austin, TX</ion-select-option>
               <ion-select-option value="chicago">Chicago, IL</ion-select-option>
               <ion-select-option value="seattle">Seattle, WA</ion-select-option>
@@ -134,7 +150,7 @@ ion-toolbar ion-menu-button {
 }
 
 .about-header .madison {
-  background-image: url("../../public/assets/img/about/madison.jpg");
+  background-image: url("../../public/assets/img/about/HoustonHero.jpg");
 }
 
 .about-header .austin {

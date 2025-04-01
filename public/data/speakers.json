@@ -1,8 +1,8 @@
 [{
   "id": 1,
-  "name": "Burt Bear",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/bear.jpg",
+  "name": "David Gergen, CDT",
+  "title": "ASBA CEO",
+  "profilePic": "/assets/img/speakers/david_gergen.png",
   "twitter": "ionicframework",
   "about": "Burt is a Bear.",
   "location": "Everywhere",
@@ -10,9 +10,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 2,
-  "name": "Charlie Cheetah",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/cheetah.jpg",
+  "name": "Andre Collins",
+  "title": "NFLPA",
+  "profilePic": "/assets/img/speakers/andre_collins.png",
   "twitter": "ionicframework",
   "about": "Charlie is a Cheetah.",
   "location": "Everywhere",
@@ -20,9 +20,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 3,
-  "name": "Donald Duck",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/duck.jpg",
+  "name": "Patrick McKeown",
+  "title": "Sleep Medicine",
+  "profilePic": "/assets/img/speakers/patrick_mckeown.png",
   "twitter": "ionicframework",
   "about": "Donald is a Duck.",
   "location": "Everywhere",
@@ -30,9 +30,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 4,
-  "name": "Eva Eagle",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/eagle.jpg",
+  "name": "Jon Caulfield,DDS",
+  "title": "Previous ASBA President",
+  "profilePic": "/assets/img/speakers/jon_caulfield.png",
   "twitter": "ionicframework",
   "about": "Eva is an Eagle.",
   "location": "Everywhere",
@@ -40,9 +40,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 5,
-  "name": "Ellie Elephant",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/elephant.jpg",
+  "name": "Bahar Esmaili, DDS",
+  "title": "Dental Sleep Medicine",
+  "profilePic": "/assets/img/speakers/bahar_esmaili.png",
   "twitter": "ionicframework",
   "about": "Ellie is an Elephant.",
   "location": "Everywhere",
@@ -50,9 +50,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 6,
-  "name": "Gino Giraffe",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/giraffe.jpg",
+  "name": "Timothy C. Adams, DDS",
+  "title": "Dental Sleep Medicine",
+  "profilePic": "/assets/img/speakers/timothy_adams.png",
   "twitter": "ionicframework",
   "about": "Gino is a Giraffe.",
   "location": "Everywhere",
@@ -60,9 +60,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 7,
-  "name": "Isabella Iguana",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/iguana.jpg",
+  "name": "Felix Liao, DDS",
+  "title": "Dental Sleep Medicine",
+  "profilePic": "/assets/img/speakers/felix_liao.png",
   "twitter": "ionicframework",
   "about": "Isabella is an Iguana.",
   "location": "Everywhere",
@@ -70,9 +70,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 8,
-  "name": "Karl Kitten",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/kitten.jpg",
+  "name": "G. Dave Singh, D. SC, PhD, DMD",
+  "title": "Sleep Medicine",
+  "profilePic": "/assets/img/speakers/g_dave_singh.png",
   "twitter": "ionicframework",
   "about": "Karl is a Kitten.",
   "location": "Everywhere",
@@ -80,9 +80,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 9,
-  "name": "Lionel Lion",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/lion.jpg",
+  "name": "Dr. Stephen Carstensen, DDS",
+  "title": "Dentist & Sleep Medicine",
+  "profilePic": "/assets/img/speakers/stephen_carstensen.png",
   "twitter": "ionicframework",
   "about": "Lionel is a Lion.",
   "location": "Everywhere",
@@ -90,9 +90,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 10,
-  "name": "Molly Mouse",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/mouse.jpg",
+  "name": "Dar Radfar, DDS",
+  "title": "Dentist & Sleep Medicine",
+  "profilePic": "/assets/img/speakers/dar_radfar.png",
   "twitter": "ionicframework",
   "about": "Molly is a Mouse.",
   "location": "Everywhere",
@@ -110,9 +110,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 12,
-  "name": "Rachel Rabbit",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/rabbit.jpg",
+  "name": "Kirk Huntsman",
+  "title": "Vivos Therapeutics",
+  "profilePic": "/assets/img/speakers/kirk_huntsman.png",
   "twitter": "ionicframework",
   "about": "Rachel is a Rabbit.",
   "location": "Everywhere",
@@ -120,9 +120,9 @@
   "phone": "+1-541-754-3010"
 }, {
   "id": 13,
-  "name": "Ted Turtle",
-  "title": "Software Engineer",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "name": "Dr. Jeffrey Harrison",
+  "title": "Sleep Medicine",
+  "profilePic": "/assets/img/speakers/jeffrey_harrison.png",
   "twitter": "ionicframework",
   "about": "Ted is a Turtle.",
   "location": "Everywhere",

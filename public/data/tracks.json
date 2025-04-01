@@ -1,19 +1,19 @@
 [
     {
-        "name": "Angular",
-        "icon": "logoAngular"
+        "name": "Sleep Medicine",
+        "icon": "moon"
     },
     {
-        "name": "Documentation",
-        "icon": "document"
+        "name": "Vivos Therapeutics",
+        "icon": "logoVue"
     },
     {
         "name": "Food",
         "icon": "restaurant"
     },
     {
-        "name": "Ionic",
-        "icon": "logoIonic"
+        "name": "Technology",
+        "icon": "laptop"
     },
     {
         "name": "Tooling",

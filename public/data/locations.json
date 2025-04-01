@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "name": "Map Center",
-    "lat": 43.071584,
-    "lng": -89.380120
-  }, {
+    "name": "The Westin Houston Medical Center/Museum District",
+    "lat": 29.709888170899116,
+    "lng": -95.40154464587552
+    }, {
     "id": 2,
     "name": "Monona Terrace Convention Center",
-    "lat": 43.071584,
-    "lng": -89.380120
+    "lat": 29.709888170899116,
+    "lng": -95.40154464587552
   }, {
     "id": 3,
     "name": "Ionic HQ",
-    "lat": 43.074395,
-    "lng": -89.381056
+    "lat": 29.709888170899116,
+    "lng": -95.40154464587552
   }, {
     "id": 4,
     "name": "Afterparty - Brocach Irish Pub",
-    "lat": 43.07336,
-    "lng": -89.38335
+    "lat": 29.709888170899116,
+    "lng": -95.40154464587552
   }
 ]

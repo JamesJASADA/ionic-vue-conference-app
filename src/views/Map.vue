@@ -65,7 +65,7 @@ export default {
     const darkStyle: never[] = [];
 
     try {
-      await this.loadGoogleMapsAPI("YOUR_API_KEY_HERE");
+      await this.loadGoogleMapsAPI("AIzaSyB9eN9dNp6Ibg-CPLJYxeLuZCjzMeXI-rI");
     } catch (error) {
       // Handle the Google Maps API error here (e.g., log it or display a message).
       console.error("Error loading Google Maps API:", error);
