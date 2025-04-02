@@ -1,22 +1,22 @@
 [{
   "id": 1,
   "name": "David Gergen, CDT",
-  "title": "ASBA CEO",
+  "title": "Owner of Gergens Orthodontics Lab and ASBA CEO",
   "profilePic": "/assets/img/speakers/david_gergen.png",
   "twitter": "ionicframework",
-  "about": "Burt is a Bear.",
-  "location": "Everywhere",
-  "email": "burt@example.com",
-  "phone": "+1-541-754-3010"
+  "about": "David Gergen is a legend.",
+  "location": "Phoneix, AZ", // Location is used in the app to show where the speaker is from
+  "email": "gxployer@yahoo.com",
+  "phone": "+1-623-879-6066"
 }, {
   "id": 2,
   "name": "Andre Collins",
   "title": "NFLPA",
   "profilePic": "/assets/img/speakers/andre_collins.png",
   "twitter": "ionicframework",
-  "about": "Charlie is a Cheetah.",
+  "about": "Andre is a legendary NFL player and actively protects the health of Current and past NFL player, especically their sleep health.",
   "location": "Everywhere",
-  "email": "charlie@example.com",
+  "email": "andre@example.com",
   "phone": "+1-541-754-3010"
 }, {
   "id": 3,
